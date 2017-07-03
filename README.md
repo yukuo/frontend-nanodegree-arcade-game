@@ -1,3 +1,10 @@
+## How to run
+Just open index.html and run the game
+
+## How to play the game
+Use _left_, _right_, _up_, _down_ keys to control the player.
+
+
 frontend-nanodegree-arcade-game
 ===============================
 
